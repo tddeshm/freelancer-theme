@@ -50,7 +50,7 @@ hr.star-primary {
 hr.star-light:after,
 hr.star-primary:after {
     /* content: url(/img/logo.png); */
-    content: "\f553";
+    content: "\f290";
     display: inline-block;
     position: relative;
     top: -.8em;
