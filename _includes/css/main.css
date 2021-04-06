@@ -38,13 +38,18 @@ h6 {
 
 hr.star-light,
 hr.star-primary {
-    margin: 25px auto 30px;
+    /* margin: 25px auto 30px;
     padding: 0;
     max-width: 250px;
     border: 0;
     border-top: solid 5px;
     text-align: center;
-    overflow: visible;
+    overflow: visible; */
+    background-image: url(/img/logo.png);
+    background-repeat: no-repeat;
+    width: 10px;
+    height: 10px;
+
 }
 
 hr.star-light:after,
