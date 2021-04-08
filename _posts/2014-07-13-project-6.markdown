@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Green Tag’s rating system is based on three categories people, planet, and policies. We begin analyzing companies by starting them off at five stars in each category. From there, we remove stars according to negative information that we come across in our research process. The three main databases that we use to gather information are Good On You​, ​Ethical Consumer​, and ​Shop Ethical​. Finally, after giving each company a category rating, we assign an overall Green Score which is the average of the three category scores.
 ---

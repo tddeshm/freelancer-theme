@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: We consider how each brand is engaging in positive activism through company policies that commit to a more sustainable and ethical future. We are also concerned about those companies that engage in ‘negative citizenship’ by lobbying governments, using controversial technologies, or intentionally obscuring information. Finally, we factor in previous boycott calls or petitions to the company, and the brand’s subsequent response,
 ---
