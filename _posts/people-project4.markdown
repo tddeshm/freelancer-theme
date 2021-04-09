@@ -4,5 +4,4 @@ modal-id: 5
 img: people.png
 alt: image-alt
 description: We look at brands’ impact on workers across the supply chain. These include policies and practices on child labour, forced labour, worker safety, freedom of association (the right to join a union), gender equality and payment of a living wage. We consider how well a brand ensures that its policies are implemented do they empower workers, have supportive supplier relationships, or conduct meaningful audits? Do their practices protect workers from the impacts of COVID-19?
-
 ---
