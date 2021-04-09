@@ -3,6 +3,6 @@ layout: default
 modal-id: 1
 img: star-rating.png
 alt: image-alt
-description: 5 stars, Awesome - These brands demonstrate leadership in all three areas. They are typically very transparent, and have both strong policies and strong assurance (e.g. from one or more broad-based certification) to address the most material issues across their supply chain.  
+description: 5 stars, Awesome - These brands demonstrate leadership in all three areas. They are typically very transparent, and have both strong policies and strong assurance (e.g. from one or more broad-based certification) to address the most material issues across their supply chain.   
 4 stars, Good - These brands adopt policies and practices to manage multiple material issues across their supply chain and are often demonstrating leadership in one or more areas.
 ---
