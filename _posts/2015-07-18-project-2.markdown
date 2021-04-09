@@ -3,5 +3,7 @@ layout: default
 modal-id: 2
 img: overview.png
 alt: image-alt
-description: Green Tag’s rating system is based on three categories people, planet, and policies. We begin analyzing companies by starting them off at five stars in each category. From there, we remove stars according to negative information that we come across in our research process. The three main databases that we use to gather information are Good On You​, ​Ethical Consumer​, and ​Shop Ethical​. Finally, after giving each company a category rating, we assign an overall Green Score which is the average of the three category scores.
+description: Green Tag’s Top 5 Brands
+Here are 5 brands that are rated highly by Green Tag’s algorithm! They all place workers at the forefront of their decisions, do their best to minimize damage to the environment, and are transparent in their company policies.<br><br>1. Reebok<br>2. Patagonia<br>3. Adidas<br>4. Marks & Spencer<br>5. Calvin Klein<br><br>
+Green Tag’s Top 5 AVOIDs<br>We encourage you to AVOID the following 5 brands. They treat their workers poorly, are using unsustainable fabrics, and do not provide much information about their policies.<br><br>1. Forever21<br>2. Kate Spade<br>3. BooHoo<br>4. Fashion Nova<br>5. Pretty Little Thing
 ---
