@@ -3,5 +3,13 @@ layout: default
 modal-id: 1
 img: star-rating.png
 alt: image-alt
-description: Img of a star ![one star](img/portfolio/star-rating.png)
+description: 5 stars, Awesome - These brands demonstrate leadership in all three areas. They are typically very transparent, and have both strong policies and strong assurance (e.g. from one or more broad-based certification) to address the most material issues across their supply chain.
+
+4 stars, Good - These brands adopt policies and practices to manage multiple material issues across their supply chain and are often demonstrating leadership in one or more areas.
+
+3 stars, Okay - These brands are transparent about their policies and practices to manage some material issues and are making good progress on one or more of them.
+
+2 stars, Poor - These brands disclose some information in one or more areas and consider some of the material issues, but are not yet adequately managing their impacts across their supply chains.
+
+1 star, Avoid - These brands disclose little to no relevant or concrete information about their sustainability practices. In some cases the brand may make ambiguous claims that are unlikely to have a material impact.
 ---
