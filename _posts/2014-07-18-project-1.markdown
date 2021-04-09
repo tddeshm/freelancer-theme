@@ -3,5 +3,5 @@ layout: default
 modal-id: 1
 img: star-rating.png
 alt: image-alt
-description: ![one star](star-rating.png)
+description: Img of a star ![one star](star-rating.png)
 ---
