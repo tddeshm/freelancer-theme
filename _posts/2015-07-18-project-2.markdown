@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-img: overview.png
+img: thumbs-up.png
 alt: image-alt
 description: <b>Green Tag's Top 5 Brands</b><br>Here are 5 brands that are highly rated by Green Tag's algorithm! They all place workers at the forefront of their decisions, do thier best to minimize damage to the environment, and are transparent in their company policies. <br><br><span style="color:green">1. Reebok<br>2. Patagonia<br>3. Adidas<br>4. Marks & Spencer<br>5. Calvin Klein</span><br><br><b>Green Tag's Top 5 AVOIDs</b><br>We encourage you to AVOID the following 5 brands. They treat workers poorly, are using unsustainable fabrics, and do not provide much information on thier policies.<br><br><span style="color:red">1. Forever21<br>2. Kate Spade<br>3. BooHoo<br>4. Fashion Nova<br>5. Pretty Little Thing</span>
 ---
