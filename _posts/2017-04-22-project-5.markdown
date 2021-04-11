@@ -5,7 +5,4 @@ img: people.png
 alt: image-alt
 description: We look at brands’ impact on workers across the supply chain. These include policies and practices on child labour, forced labour, worker safety, freedom of association (the right to join a union), gender equality and payment of a living wage. We consider how well a brand ensures that its policies are implemented do they empower workers, have supportive supplier relationships, or conduct meaningful audits? Do their practices protect workers from the impacts of COVID-19?<br><br>1 star - These companies do not meet labor standards and make no effort to improve their practices.
 <br>2 stars - These companies do not meet labor standards but acknowledge their shortcomings and are looking to improve.
-<br>3 stars These companies meet a minimum standard of labor but do not actively empower their employees.
-<br>4 stars - These companies communicate with their employees and make an effort to match their needs. However, there are a few places on the supply chain where their efforts fall short of what is needed.
-<br>5 stars - These companies excel at placing workers at the center of their decision making process and empowering them to succeed.
 ---
