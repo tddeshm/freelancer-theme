@@ -10,7 +10,7 @@
                 </div>
             </div>
             <div class="row">
-                {% for post in site.posts %}
+                <!-- {% for post in site.posts %}
                     <div class="col-sm-4 portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
@@ -21,7 +21,17 @@
                             <img src="img/portfolio/{{ post.img }}" width="200px" height="200px" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                     </div>
-                {% endfor %}
+                {% endfor %} -->
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal-1" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/star.png" width="200px" height="200px" class="img-responsive">
+                    </a>
+                </div>
             </div>
         </div>
     </section>
