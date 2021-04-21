@@ -36,7 +36,6 @@ footer:
   location: Location
   social: Around the Web
   credits: Credits
-  privacy: Privacy Policy
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -61,9 +60,6 @@ address:
 # Credits content
 # credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 credits: 'Pavani Chilukuri, Chelsea Henning, Tanvi Deshmukh'
-
-# Privacy Policy content
-privacy: 'Green Tag does not collect or share any user data.'
 
 # Build settings
 markdown: kramdown
