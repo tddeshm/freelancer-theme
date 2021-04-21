@@ -63,7 +63,7 @@ address:
 credits: 'Pavani Chilukuri, Chelsea Henning, Tanvi Deshmukh'
 
 # Privacy Policy content
-privacy: 'Green Tag does not collect or share any user data.'
+privacy: 'Green Tag does not collect or share any user data. The request form is only intended for the name and url of a company that the user enters. The extension accesses the URL of the website the user is on, but only to display the company's green score. Any information related to the user and the websites they visit is not stored anywhere.'
 
 # Build settings
 markdown: kramdown
