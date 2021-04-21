@@ -63,7 +63,7 @@ address:
 credits: 'Pavani Chilukuri, Chelsea Henning, Tanvi Deshmukh'
 
 # Privacy Policy content
-privacy: 'Green Tag does not collect any user data...'
+privacy: 'Green Tag does not collect or share any user data.'
 
 # Build settings
 markdown: kramdown
